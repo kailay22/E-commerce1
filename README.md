@@ -13,7 +13,7 @@ Dockerized services with Docker Compose
 
 How to Run the Application
 First, clone this repository to your local machine and navigate to the project folder:
-git clone https://github.com/your-repository/ecommerce-system.git
+git clone [https://github.com/your-repository/ecommerce-system.git](https://github.com/kailay22/E-commerce1.git)
 cd ecommerce-system
 
 1. Ensure that you have the latest Maven installed. Then, navigate into each service's directory (both product-service and order-service) and build the services using the following command:
